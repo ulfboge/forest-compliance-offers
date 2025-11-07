@@ -17,6 +17,13 @@ Supporting references:
 - `docs/EUDR_Status_Sweden.md` – Country briefing template.
 - `docs/Visuals/` – Drop bespoke maps/figures per engagement.
 - `outputs/` – Store final PDFs or decks shared with partners.
+- `docs/qgis_eudr_workflow.md` – Field data collection workflow using QGIS + Mergin Maps for EUDR evidence.
+
+## Project Status
+
+- Core service documentation refactored into four modular offers with consistent structure and integration notes.
+- Added QGIS/Mergin Maps workflow guide summarising the EUDR geolocation capture process for field teams.
+- Repository focuses on manual tailoring; automation scripts removed to keep deliverables engagement-specific.
 
 ## Collaboration Workflow
 

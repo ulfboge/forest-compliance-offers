@@ -9,6 +9,10 @@ This folder holds the core narratives for the modular assurance platform:
 | `enhanced-forest-monitoring.md` | **Enhanced Monitoring** | Maintain continuous situational awareness through satellite, drone, and telemetry fusion. |
 | `operational-financial-readiness.md` | **Operational & Financial Readiness** | Convert compliance and monitoring insights into bankable financial plans. |
 
+Supplementary guides:
+
+- `qgis_eudr_workflow.md` – Step-by-step field data capture workflow (QGIS + Mergin Maps).
+
 Each Markdown document follows a shared structure:
 
 1. **Objective** – Why the module exists and which decisions it supports.
