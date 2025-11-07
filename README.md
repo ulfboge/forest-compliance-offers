@@ -1,94 +1,51 @@
-# Forest Compliance Offers
+# Forest Compliance Assurance Platform
 
-This repository consolidates reusable content and reference visuals for forest-compliance engagements. It expands beyond the original EUDR package to include complementary offers on financial planning, enhanced monitoring, and certification pre-audits.
+This repository captures the modular service architecture discussed with Giuseppe: an integrated offer that pairs EUDR traceability with certification pre-audits, continuous monitoring, and operational-financial planning. Together, the modules support a potential third-party “investment readiness & verification” service for ESG lenders and partners.
 
-## Directory Layout
+## Modules at a Glance
 
-- `docs/` – Markdown sources for all client-facing narratives:
-  - `EUDR_Service_Offer.md`
-  - `Dummy_Report.md`
-  - `EUDR_Status_Sweden.md`
-  - `Operational_Financial_Readiness_Offer.md`
-  - `Enhanced_Forest_Monitoring_Offer.md`
-  - `Certification_PreAudit_Offer.md`
-- `docs/Visuals/` – Tailored figures and maps for each engagement (add as needed).
-- `outputs/` – Archive the PDFs or other deliverables you assemble manually.
-- `LICENSE`, `.gitignore` – Supporting configuration files. Add optional tooling notes as needed.
+| Module | Description | Primary File |
+| :--- | :--- | :--- |
+| **EUDR Traceability Core** | Spatial traceability, deforestation screening, and risk evidence for Regulation (EU) 2023/1115. | `docs/eudr-traceability-core.md` |
+| **Certification Pre-Audit** | FSC/PEFC/carbon readiness diagnostics with corrective-action planning. | `docs/certification-preaudit-offer.md` |
+| **Enhanced Forest Monitoring** | Ongoing satellite, drone, and telemetry alerting between audits. | `docs/enhanced-forest-monitoring.md` |
+| **Operational & Financial Readiness** | Valuation, capex/opex planning, and financing narratives informed by spatial compliance. | `docs/operational-financial-readiness.md` |
 
-## Quick Start
+Supporting references:
 
-Work directly in the Markdown sources to tailor each proposal or report. Drop bespoke visuals in `docs/Visuals/` and add final PDFs to `outputs/` when they are ready to distribute.
+- `docs/Dummy_Report.md` – Sample multi-supplier risk narrative.
+- `docs/EUDR_Status_Sweden.md` – Country briefing template.
+- `docs/Visuals/` – Drop bespoke maps/figures per engagement.
+- `outputs/` – Store final PDFs or decks shared with partners.
 
-## Complementary Offers
+## Collaboration Workflow
 
-- **Spatial EUDR Compliance** – Core geolocation, risk screening, and reporting workflow.
-- **Operational & Financial Readiness** – Forest asset valuation, capex/opex planning, and scenario analysis (delivered via Excel).
-- **Enhanced Forest Asset Monitoring** – Satellite + drone + telemetry integration with Excel monitoring workbooks.
-- **Certification Pre-Audit Screening** – FSC / PEFC / carbon readiness checks with corrective action planning.
+- **GitHub / Cursor** – Primary workspace for tracked edits, version history, and partner onboarding. Use feature branches or pull requests when co-authoring with OpenForests, Giuseppe, or other collaborators.
+- **Google Docs (optional)** – For stakeholders who prefer inline commenting. Capture revisions there, then merge back into the Markdown sources with a summarised commit message.
+- **Documentation Standards** – Each module follows the same headings (Objective, Methodology, Deliverables, Ideal Clients & Use Cases, Connection to the Integrated Assurance Platform). Keep language modular so components can be bundled.
+
+## Tailoring Blueprint
+
+1. **Start with the EUDR Core:** Establish supplier boundaries, risk ratings, and baseline evidence.
+2. **Layer Certification Support:** Use EUDR outputs to target FSC/PEFC/carbon gaps and plan corrective actions.
+3. **Add Monitoring:** Define KPIs and alerting cadence so compliance evidence stays fresh between audits.
+4. **Translate into Finance:** Convert operational insights into valuation scenarios, investment requirements, and lender-ready narratives.
+5. **Package for Third Parties:** Combine outputs into an “investment readiness & verification” dossier for ESG investors, DFIs, or grant-makers.
+
+## Repository Layout
+
+- `docs/` – Core narratives (see `docs/README.md` for module guidance).
+- `docs/Visuals/` – Engagement-specific figures at print-ready resolution.
+- `outputs/` – Canonical PDFs, decks, or briefing packs.
+- `LICENSE`, `.gitignore` – Supporting configuration files.
 
 ## Next Steps
 
-1. Review Markdown files in `docs/` to confirm branding and partner names for the new repository context.
-2. Curate engagement-specific visuals and analytics before placing them in `docs/Visuals/`.
-3. Assemble PDFs or other deliverables manually and store the canonical versions in `outputs/`.
-4. Coordinate with partners (OpenForests, Mergin Maps, Giuseppe Dal Bosco, Alex) before distributing deliverables.
-5. Invite collaborators via GitHub → `Settings` → `Collaborators and teams` so partners can maintain the repository.
+1. Review each module and infuse client-specific context (region, commodity, partner roles).
+2. Coordinate branding updates with OpenForests, Mergin Maps, and financial partners before publishing collateral.
+3. Populate `docs/Visuals/` and `outputs/` with tailored material as projects progress; remove outdated versions promptly.
+4. Invite collaborators via **GitHub → Settings → Collaborators and teams** and document any Google Docs references in commit messages.
+5. Explore the “Investment Readiness & Verification” concept by drafting a shared checklist that links spatial, certification, and financial evidence.
 
-_Disclaimer: Outputs provide spatial and environmental risk insights. They are not legal verification or certification decisions._
- # EUDR Traceability & Forest Risk Services
-
- This repository collects collateral and sample analytics for a geospatial service offer that supports compliance with Regulation (EU) 2023/1115 (EUDR). It brings together draft documentation and demo visuals that demonstrate how Komba GIS AB and partners such as OpenForests, Mergin Maps, or Preferred by Nature can deliver spatial and contextual risk assessments.
-
- ## Goals
-
- - Provide partner-ready descriptions of EUDR-aligned traceability, monitoring, and forestry risk services.
- - Supply a fictional but realistic sample report with supporting graphics suitable for workshop demos and proposals.
-- Offer guidance for tailoring visuals and branded PDFs without prescribing automation.
- - Capture country-specific implementation notes (starting with Sweden) for reuse in tailored offers.
-
- ## Repository Layout
-
-- `docs/` – Markdown sources for the full service offer, dummy report, and regulatory briefs. Visual assets live in `docs/Visuals/`.
-- `outputs/` – Ready-to-share PDFs or other packaged deliverables you decide to track in version control.
-- Optional tooling notes (add separate files if you introduce automation again).
-
- ## Key Deliverables
-
- - `docs/EUDR_Service_Offer.md` – Nine-section description of the end-to-end spatial compliance service.
- - `docs/Dummy_Report.md` – Fictional multi-supplier risk assessment illustrating reporting style.
- - `docs/EUDR_Status_Sweden.md` – Country briefing covering competent authority, timeline, and exemptions.
-- `docs/Operational_Financial_Readiness_Offer.md` – Outline for asset valuation, capex/opex planning, and production scenarios.
-- `docs/Enhanced_Forest_Monitoring_Offer.md` – Drone and telemetry-enabled monitoring framework.
-- `docs/Certification_PreAudit_Offer.md` – Pre-audit screening for FSC, PEFC, and carbon standards.
- - `outputs/` – Populate with brochures, sample reports, or other materials once customized versions are ready.
-
-## Tailoring Workflow
-
-1. Start from the Markdown narratives to align scope, partners, and messaging with the engagement.
-2. Produce maps, charts, and analytics using the tools that best suit the project; store final artefacts in `docs/Visuals/`.
-3. Assemble PDFs or presentations with your preferred desktop or cloud tooling and check them into `outputs/` when finalized.
-4. Record assumptions, data sources, and review notes alongside each deliverable to support future revisions.
-
- ## Partner Notes
-
- - Messaging emphasizes **spatial and environmental risk assessment – not legal verification**; include the disclaimer wherever deliverables are shared.
- - Highlight integrations with OpenForests (data stewardship) and Mergin Maps (offline data capture & GeoJSON export).
- - Reference the official EUDR deployment timeline (June 2023 in force, December 2025 / June 2026 obligations) and national implementation updates.
-
-## Complementary Offers
-
-- **Operational & Financial Readiness:** Valuation modeling, capex/opex roadmaps, and product mix scenarios to translate spatial compliance into investment plans.
-- **Enhanced Forest Asset Monitoring:** Drone, telemetry, and satellite integration feeding an Excel-based forest health monitoring workbook.
-- **Certification Pre-Audit Screening:** Rapid gap analysis for FSC, PEFC, or carbon standards with corrective action planning.
-
-## Getting Started
-
-1. Clone or download the repository: `git clone https://github.com/ulfboge/forest-compliance-offers.git`.
-2. Review the Markdown offers in `docs/` and adapt the language, partners, or metrics for the engagement at hand.
-3. Add bespoke visuals to `docs/Visuals/` (create the folder if it does not exist in your working copy).
-4. Export your tailored PDFs or other deliverables into `outputs/` so the repository tracks the canonical versions.
-
- ## Licensing
-
- Unless otherwise noted, content in this repository is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. Adjust the `LICENSE` file to match partner requirements before publication.
+_Disclaimer: Services provide spatial and environmental risk insights. They complement, but do not replace, legal verification or accredited certification decisions._
 
