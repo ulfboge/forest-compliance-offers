@@ -12,6 +12,7 @@ This folder holds the core narratives for the modular assurance platform:
 Supplementary guides:
 
 - `qgis_eudr_workflow.md` – Step-by-step field data capture workflow (QGIS + Mergin Maps).
+- Root-level `CHANGELOG.md` – High-level history of documentation and structure updates.
 
 Each Markdown document follows a shared structure:
 

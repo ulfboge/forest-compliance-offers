@@ -18,6 +18,7 @@ Supporting references:
 - `docs/Visuals/` – Drop bespoke maps/figures per engagement.
 - `outputs/` – Store final PDFs or decks shared with partners.
 - `docs/qgis_eudr_workflow.md` – Field data collection workflow using QGIS + Mergin Maps for EUDR evidence.
+- `CHANGELOG.md` – Timeline of notable changes to the repository.
 
 ## Project Status
 
