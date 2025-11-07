@@ -1,0 +1,22 @@
+ # Python
+ __pycache__/
+ *.py[cod]
+ *.pyo
+ .Python
+ .venv/
+ env/
+ venv/
+
+ # Jupyter
+ .ipynb_checkpoints/
+
+ # VSCode / Editor
+ .vscode/
+
+ # OS
+ Thumbs.db
+ .DS_Store
+
+ # Reports generated locally
+ outputs/*.tmp
+
