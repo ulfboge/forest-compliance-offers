@@ -1,6 +1,6 @@
-Generated PDFs are written here by the automation scripts.
+Use this folder to store finalized, client-ready outputs (PDFs, slide decks, etc.).
 
-- Run `python scripts/generate_dummy_maps.py` to refresh figures.
-- Install dependencies (`pip install -r requirements.txt`) and run `python scripts/build_onepager_pdf.py` to produce `EUDR_Services_OnePager.pdf`.
-- Extend the workflow with Pandoc or ReportLab pipelines to add `EUDR_Dummy_Report.pdf` when ready.
+- Export deliverables from your preferred desktop or cloud tools and save the canonical versions here.
+- Document the data sources, assumptions, and collaborators for each file—either within the document or in a companion note.
+- Remove or archive outdated materials so the repository represents the current offer package.
 

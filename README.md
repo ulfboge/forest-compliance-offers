@@ -1,7 +1,6 @@
 # Forest Compliance Offers
-[![CI](https://github.com/ulfboge/forest-compliance-offers/actions/workflows/ci.yml/badge.svg)](https://github.com/ulfboge/forest-compliance-offers/actions/workflows/ci.yml)
 
-This repository consolidates reusable content, visuals, and automation scaffolding for forest-compliance engagements. It expands beyond the original EUDR package to include complementary offers on financial planning, enhanced monitoring, and certification pre-audits.
+This repository consolidates reusable content and reference visuals for forest-compliance engagements. It expands beyond the original EUDR package to include complementary offers on financial planning, enhanced monitoring, and certification pre-audits.
 
 ## Directory Layout
 
@@ -12,22 +11,13 @@ This repository consolidates reusable content, visuals, and automation scaffoldi
   - `Operational_Financial_Readiness_Offer.md`
   - `Enhanced_Forest_Monitoring_Offer.md`
   - `Certification_PreAudit_Offer.md`
-- `docs/Visuals/` – Placeholder graphics generated with Matplotlib.
-- `scripts/` – Python utilities for refreshing visuals and assembling the one-pager PDF (`generate_dummy_maps.py`, `build_onepager_pdf.py`).
-- `outputs/` – Slot for generated PDFs (`EUDR_Services_OnePager.pdf`, future report exports).
-- `LICENSE`, `.gitignore`, `requirements.txt` – Supporting configuration files.
+- `docs/Visuals/` – Tailored figures and maps for each engagement (add as needed).
+- `outputs/` – Archive the PDFs or other deliverables you assemble manually.
+- `LICENSE`, `.gitignore` – Supporting configuration files. Add optional tooling notes as needed.
 
 ## Quick Start
 
-```powershell
-cd forest-compliance-offers
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-python scripts/generate_dummy_maps.py
-```
-
-When ReportLab is installed, run `python scripts/build_onepager_pdf.py` to rebuild the brochure. Generated assets appear in `docs/Visuals/` and `outputs/` respectively.
+Work directly in the Markdown sources to tailor each proposal or report. Drop bespoke visuals in `docs/Visuals/` and add final PDFs to `outputs/` when they are ready to distribute.
 
 ## Complementary Offers
 
@@ -39,29 +29,28 @@ When ReportLab is installed, run `python scripts/build_onepager_pdf.py` to rebui
 ## Next Steps
 
 1. Review Markdown files in `docs/` to confirm branding and partner names for the new repository context.
-2. Update `requirements.txt` or scripts if additional automation steps are required.
-3. Regenerate visuals/PDFs after confirming dependencies.
+2. Curate engagement-specific visuals and analytics before placing them in `docs/Visuals/`.
+3. Assemble PDFs or other deliverables manually and store the canonical versions in `outputs/`.
 4. Coordinate with partners (OpenForests, Mergin Maps, Giuseppe Dal Bosco, Alex) before distributing deliverables.
 5. Invite collaborators via GitHub → `Settings` → `Collaborators and teams` so partners can maintain the repository.
 
 _Disclaimer: Outputs provide spatial and environmental risk insights. They are not legal verification or certification decisions._
  # EUDR Traceability & Forest Risk Services
 
- This repository collects collateral, sample analytics, and automation scripts for a geospatial service offer that supports compliance with Regulation (EU) 2023/1115 (EUDR). It brings together draft documentation, demo visuals, and code scaffolding that demonstrate how Komba GIS AB and partners such as OpenForests, Mergin Maps, or Preferred by Nature can deliver spatial and contextual risk assessments.
+ This repository collects collateral and sample analytics for a geospatial service offer that supports compliance with Regulation (EU) 2023/1115 (EUDR). It brings together draft documentation and demo visuals that demonstrate how Komba GIS AB and partners such as OpenForests, Mergin Maps, or Preferred by Nature can deliver spatial and contextual risk assessments.
 
  ## Goals
 
  - Provide partner-ready descriptions of EUDR-aligned traceability, monitoring, and forestry risk services.
  - Supply a fictional but realistic sample report with supporting graphics suitable for workshop demos and proposals.
- - Package automation scripts that regenerate visuals and branded PDFs from source text.
+- Offer guidance for tailoring visuals and branded PDFs without prescribing automation.
  - Capture country-specific implementation notes (starting with Sweden) for reuse in tailored offers.
 
  ## Repository Layout
 
- - `docs/` – Markdown sources for the full service offer, dummy report, and regulatory briefs. Visual assets live in `docs/Visuals/`.
- - `scripts/` – Python utilities for generating demonstration figures and composing a brochure PDF.
- - `outputs/` – Ready-to-share PDFs, including the two-page one-pager and a compiled dummy report.
- - `requirements.txt` – Python dependencies required for the scripts.
+- `docs/` – Markdown sources for the full service offer, dummy report, and regulatory briefs. Visual assets live in `docs/Visuals/`.
+- `outputs/` – Ready-to-share PDFs or other packaged deliverables you decide to track in version control.
+- Optional tooling notes (add separate files if you introduce automation again).
 
  ## Key Deliverables
 
@@ -71,15 +60,14 @@ _Disclaimer: Outputs provide spatial and environmental risk insights. They are n
 - `docs/Operational_Financial_Readiness_Offer.md` – Outline for asset valuation, capex/opex planning, and production scenarios.
 - `docs/Enhanced_Forest_Monitoring_Offer.md` – Drone and telemetry-enabled monitoring framework.
 - `docs/Certification_PreAudit_Offer.md` – Pre-audit screening for FSC, PEFC, and carbon standards.
- - `outputs/EUDR_Services_OnePager.pdf` – Branded two-page brochure aligned with partner messaging.
- - `outputs/EUDR_Dummy_Report.pdf` – Printable version of the sample risk assessment.
+ - `outputs/` – Populate with brochures, sample reports, or other materials once customized versions are ready.
 
- ## Automation Roadmap
+## Tailoring Workflow
 
- 1. Regenerate figures with `scripts/generate_dummy_maps.py` (Matplotlib-based placeholders; no GeoPandas dependency).
- 2. Combine Markdown, visuals, and branding into PDFs using `scripts/build_onepager_pdf.py` and, optionally, Pandoc workflows.
- 3. Extend scripts with modular country configuration (e.g., Sweden, Portugal) for rapid offer updates.
-4. Explore (optional) dashboard mock-ups for future upgrades while keeping current deliverables in Excel.
+1. Start from the Markdown narratives to align scope, partners, and messaging with the engagement.
+2. Produce maps, charts, and analytics using the tools that best suit the project; store final artefacts in `docs/Visuals/`.
+3. Assemble PDFs or presentations with your preferred desktop or cloud tooling and check them into `outputs/` when finalized.
+4. Record assumptions, data sources, and review notes alongside each deliverable to support future revisions.
 
  ## Partner Notes
 
@@ -93,23 +81,12 @@ _Disclaimer: Outputs provide spatial and environmental risk insights. They are n
 - **Enhanced Forest Asset Monitoring:** Drone, telemetry, and satellite integration feeding an Excel-based forest health monitoring workbook.
 - **Certification Pre-Audit Screening:** Rapid gap analysis for FSC, PEFC, or carbon standards with corrective action planning.
 
- ## Getting Started
+## Getting Started
 
- ```powershell
- cd eudr-traceability
- python -m venv .venv
- .\.venv\Scripts\Activate.ps1
- pip install -r requirements.txt
- ```
-
- After installing dependencies you can refresh the demo assets:
-
- ```powershell
- python scripts/generate_dummy_maps.py
- python scripts/build_onepager_pdf.py
- ```
-
- The generated figures will appear in `docs/Visuals/`, and PDFs will be written to `outputs/`.
+1. Clone or download the repository: `git clone https://github.com/ulfboge/forest-compliance-offers.git`.
+2. Review the Markdown offers in `docs/` and adapt the language, partners, or metrics for the engagement at hand.
+3. Add bespoke visuals to `docs/Visuals/` (create the folder if it does not exist in your working copy).
+4. Export your tailored PDFs or other deliverables into `outputs/` so the repository tracks the canonical versions.
 
  ## Licensing
 
