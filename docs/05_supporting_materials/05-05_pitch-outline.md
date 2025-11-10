@@ -44,6 +44,7 @@
 - Lean in with the monitoring module: emphasise how his drone capabilities slot into the integrated pipeline.
 - Stress that the platform is modular—initial engagement can be lightweight (traceability + teaser monitoring) with room to scale.
 - Share approximate timeline bands and clarify that detail-level proposals can follow once the teaser lands.
+- Use the partner matrix (`05-06_partner-alignment-matrix.md`) to show how Globhe and other OpenForests collaborators plug into the offer.
 
 ## Next Steps
 
