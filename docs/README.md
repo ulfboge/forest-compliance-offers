@@ -17,6 +17,7 @@ Supplementary guides:
 - `05_supporting_materials/05-01_dummy-report.md` – Sample multi-supplier risk narrative.
 - `05_supporting_materials/05-02_eudr-status-sweden.md` – Country briefing template.
 - `05_supporting_materials/05-04_qgis-eudr-transcript.txt` – Transcript reference for the workflow video.
+- `05_supporting_materials/05-07_sample-financial-output.csv` – Dummy financial outputs to test tooling or visualisations (e.g., Base44).
 - `06_visuals/` – Repository of placeholder figures for quick previews.
 - Root-level `CHANGELOG.md` – High-level history of documentation and structure updates.
 

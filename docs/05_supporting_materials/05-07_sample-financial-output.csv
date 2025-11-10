@@ -1,0 +1,14 @@
+project_id,scenario,module_combo,year,revenue_usd,opex_usd,compliance_cost_usd,capex_usd,net_cashflow_usd,notes
+KOMBA-PILOT-ANG,Base,EUDR Core + Monitoring,2025,420000,210000,45000,120000,45000,Post-traceability clean-up and baseline monitoring
+KOMBA-PILOT-ANG,Base,EUDR Core + Monitoring,2026,470000,225000,35000,60000,150000,Risk flags reduced after corrective actions
+KOMBA-PILOT-ANG,Base,EUDR Core + Monitoring,2027,505000,238000,30000,45000,192000,Monitoring costs drop as processes stabilise
+KOMBA-PILOT-ANG,Enhanced,Full Stack (EUDR + Certification + Monitoring + Finance),2025,420000,210000,65000,180000,-35000,Upfront certification readiness and modelling
+KOMBA-PILOT-ANG,Enhanced,Full Stack (EUDR + Certification + Monitoring + Finance),2026,520000,235000,45000,70000,170000,Certification clearance unlocks premium buyers
+KOMBA-PILOT-ANG,Enhanced,Full Stack (EUDR + Certification + Monitoring + Finance),2027,590000,248000,42000,50000,250000,Finance module identifies cost savings and new revenue
+COOP-MALANJE,Base,EUDR Core,2025,185000,97000,28000,40000,20000,Focus on geolocation, risk screening, and reporting
+COOP-MALANJE,Base,EUDR Core,2026,210000,101000,22000,25000,62000,Reduced compliance cost after supplier coaching
+COOP-MALANJE,Scaling,EUDR Core + Finance,2025,185000,97000,28000,65000,-42000,Initial investment in asset valuation models
+COOP-MALANJE,Scaling,EUDR Core + Finance,2026,235000,109000,21000,30000,75000,Scenario planning supports new credit line
+FOREST-PORT-PT,Monitoring Lite,Monitoring + Finance,2025,330000,150000,25000,90000,65000,Telemetry integration and Excel tooling rollout
+FOREST-PORT-PT,Monitoring Lite,Monitoring + Finance,2026,360000,158000,23000,55000,124000,Operational KPIs justify investor milestone payment
+

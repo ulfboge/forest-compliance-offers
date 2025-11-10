@@ -17,6 +17,7 @@ Supporting references:
 - `docs/05_supporting_materials/05-02_eudr-status-sweden.md` – Country briefing template.
 - `docs/05_supporting_materials/05-03_qgis-eudr-workflow.md` – Field data collection workflow using QGIS + Mergin Maps for EUDR evidence.
 - `docs/05_supporting_materials/05-04_qgis-eudr-transcript.txt` – Transcript reference for the workflow video.
+- `docs/05_supporting_materials/05-07_sample-financial-output.csv` – Dummy financial outputs illustrating module impacts (for tooling tests, e.g., Base44).
 - `docs/06_visuals/` – Drop bespoke maps/figures per engagement.
 - `outputs/` – Store final PDFs or decks shared with partners.
 - `CHANGELOG.md` – Timeline of notable changes to the repository.
