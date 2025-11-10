@@ -1,3 +1,14 @@
+
+# Local sync artifacts
+.env
+env.example.env
+tools/notion-sync/config.json
+tools/notion-sync/node_modules/
+
+# Attachments and transcripts added locally
+docs/05_supporting_materials/*.docx
+docs/05_supporting_materials/*.pdf
+docs/07_meeting_transcipts/
  # Python
  __pycache__/
  *.py[cod]
