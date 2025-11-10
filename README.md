@@ -19,6 +19,7 @@ Supporting references:
 - `docs/05_supporting_materials/05-04_qgis-eudr-transcript.txt` – Transcript reference for the workflow video.
 - `docs/05_supporting_materials/05-07_sample-financial-output.csv` – Dummy financial outputs illustrating module impacts (for tooling tests, e.g., Base44).
 - `docs/05_supporting_materials/05-08_exec-summary-alex.md` – One-page executive summary tailored for OpenForests/partner referrals.
+- `docs/05_supporting_materials/05-09_got-project-summary.md` – GOT-ready project summary highlighting modularity, customization, and embedded training.
 - `docs/06_visuals/` – Drop bespoke maps/figures per engagement.
 - `outputs/` – Store final PDFs or decks shared with partners.
 - `CHANGELOG.md` – Timeline of notable changes to the repository.

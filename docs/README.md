@@ -19,6 +19,7 @@ Supplementary guides:
 - `05_supporting_materials/05-04_qgis-eudr-transcript.txt` – Transcript reference for the workflow video.
 - `05_supporting_materials/05-07_sample-financial-output.csv` – Dummy financial outputs to test tooling or visualisations (e.g., Base44).
 - `05_supporting_materials/05-08_exec-summary-alex.md` – Referral-ready executive summary for OpenForests/partner outreach.
+- `05_supporting_materials/05-09_got-project-summary.md` – Comprehensive project description (e.g., for GOT applications) featuring customization and training emphasis.
 - `06_visuals/` – Repository of placeholder figures for quick previews.
 - Root-level `CHANGELOG.md` – High-level history of documentation and structure updates.
 
