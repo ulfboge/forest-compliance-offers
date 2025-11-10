@@ -12,11 +12,11 @@ Provide continuous visibility into forest condition, regeneration, and disturban
 
 ## Methodology
 
-1. **Monitoring Framework Design** – Co-create KPIs, sampling design, cadences, and governance roles with client teams and partners.
-2. **Data Integration** – Configure ingestion pipelines for satellite, drone, and telemetry sources (GEE, cloud storage, offline Mergin Maps workflows).
-3. **Analytics Production** – Generate alert layers, biomass change insights, and health indices using reproducible notebooks or low-code dashboards.
-4. **Operationalisation** – Deliver SOPs, training, and handover sessions; optionally retain Komba GIS AB for managed monitoring.
-5. **Feedback & Escalation** – Link alerts to corrective actions, certification follow-up, or financial risk registers.
+1. **Monitoring Framework Design** - Co-create KPIs, sampling design, cadences, and governance roles with client teams and partners.
+2. **Data Integration** - Configure ingestion pipelines for satellite, drone, and telemetry sources (GEE, cloud storage, offline Mergin Maps workflows).
+3. **Analytics Production** - Generate alert layers, biomass change insights, and health indices using reproducible notebooks or low-code dashboards.
+4. **Operationalisation** - Deliver SOPs, training, and handover sessions; optionally retain Komba GIS AB for managed monitoring.
+5. **Feedback & Escalation** - Link alerts to corrective actions, certification follow-up, or financial risk registers.
 
 ---
 
@@ -32,9 +32,9 @@ Provide continuous visibility into forest condition, regeneration, and disturban
 
 ## Indicative Timeline
 
-- **Design & Alignment:** 2–3 weeks to co-create KPIs, governance roles, and technology stack decisions.
-- **Pilot Build:** 5–7 weeks to configure pipelines, ingest baseline data, and validate drone/telemetry integration.
-- **Rollout & Training:** 3–4 weeks for full geography deployment, SOP finalisation, and handover sessions.
+- **Design & Alignment:** 2-3 weeks to co-create KPIs, governance roles, and technology stack decisions.
+- **Pilot Build:** 5-7 weeks to configure pipelines, ingest baseline data, and validate drone/telemetry integration.
+- **Rollout & Training:** 3-4 weeks for full geography deployment, SOP finalisation, and handover sessions.
 - **Ongoing Support (optional):** Quarterly or semi-annual refresh cycles scoped separately.
 
 Schedules adjust based on geography, data availability, and partner coordination requirements.

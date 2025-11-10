@@ -12,11 +12,11 @@ Help commodity buyers and forest managers comply with Regulation (EU) 2023/1115 
 
 ## Methodology
 
-1. **Traceability Baseline** – Clean and validate supplier geolocation data (boundaries, polygons, certificates) into a harmonised PostGIS/GeoPackage database.
-2. **Deforestation Screening** – Analyse multi-temporal radar and optical imagery (Sentinel-1/2, NICFI, Hansen, RADD) to flag post‑2020 forest loss and degradation.
-3. **Contextual Risk Overlay** – Combine loss alerts with land-use designations, protected areas, slope, accessibility, and governance indices to rate risk (Low / Medium / High).
-4. **Verification Pathway** – Design site visits, drone surveys, or partner-led forestry inspections for ambiguous or high-risk suppliers.
-5. **Reporting & Submission** – Deliver datasets, maps, and evidence packages aligned with the EU’s forthcoming EUDR Information System, plus guidance for internal controls.
+1. **Traceability Baseline** - Clean and validate supplier geolocation data (boundaries, polygons, certificates) into a harmonised PostGIS/GeoPackage database.
+2. **Deforestation Screening** - Analyse multi-temporal radar and optical imagery (Sentinel-1/2, NICFI, Hansen, RADD) to flag post-2020 forest loss and degradation.
+3. **Contextual Risk Overlay** - Combine loss alerts with land-use designations, protected areas, slope, accessibility, and governance indices to rate risk (Low / Medium / High).
+4. **Verification Pathway** - Design site visits, drone surveys, or partner-led forestry inspections for ambiguous or high-risk suppliers.
+5. **Reporting & Submission** - Deliver datasets, maps, and evidence packages aligned with the EU's forthcoming EUDR Information System, plus guidance for internal controls.
 
 ---
 

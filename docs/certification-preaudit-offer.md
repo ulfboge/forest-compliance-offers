@@ -6,17 +6,17 @@
 
 ## Objective
 
-Diagnose certification readiness (FSC, PEFC, and—at an initial screening level—carbon methodologies such as VCS) before formal audits by combining spatial evidence, document review, and partner-led site assessments. The goal is to detect issues early and resource a corrective action plan that accelerates accreditation.
+Diagnose certification readiness (FSC, PEFC, and - at an initial screening level - carbon methodologies such as VCS) before formal audits by combining spatial evidence, document review, and partner-led site assessments. The goal is to detect issues early and resource a corrective action plan that accelerates accreditation.
 
 ---
 
 ## Methodology
 
-1. **Intake & Standards Scoping** – Confirm target standards, management units, historical audit results, and required evidence bundles.
-2. **Spatial & Documentary Review** – Apply EUDR-aligned land-use and deforestation checks, review management plans, chain-of-custody records, and community/stakeholder documentation.
-3. **Gap Analysis** – Classify findings against standard-specific criteria (Compliant / Needs Attention / Critical) and prioritise remediation steps.
-4. **Corrective Action Co-Design** – Facilitate workshops with client teams and partners to assign responsibilities, timelines, and monitoring checkpoints.
-5. **Pre-Audit Reporting** – Produce a package for certification bodies summarising readiness level, outstanding actions, and supporting evidence.
+1. **Intake & Standards Scoping** - Confirm target standards, management units, historical audit results, and required evidence bundles.
+2. **Spatial & Documentary Review** - Apply EUDR-aligned land-use and deforestation checks, review management plans, chain-of-custody records, and community/stakeholder documentation.
+3. **Gap Analysis** - Classify findings against standard-specific criteria (Compliant / Needs Attention / Critical) and prioritise remediation steps.
+4. **Corrective Action Co-Design** - Facilitate workshops with client teams and partners to assign responsibilities, timelines, and monitoring checkpoints.
+5. **Pre-Audit Reporting** - Produce a package for certification bodies summarising readiness level, outstanding actions, and supporting evidence.
 
 ---
 
@@ -32,9 +32,9 @@ Diagnose certification readiness (FSC, PEFC, and—at an initial screening level
 
 ## Indicative Timeline
 
-- **Discovery & Intake:** 1–2 weeks, depending on documentation readiness and number of management units.
-- **Review & Gap Analysis:** 3–5 weeks, scaled to portfolio size and availability of partners for interviews/workshops.
-- **Action Planning & Reporting:** 2–3 weeks, allowing for client iteration and coordination with certification bodies.
+- **Discovery & Intake:** 1-2 weeks, depending on documentation readiness and number of management units.
+- **Review & Gap Analysis:** 3-5 weeks, scaled to portfolio size and availability of partners for interviews/workshops.
+- **Action Planning & Reporting:** 2-3 weeks, allowing for client iteration and coordination with certification bodies.
 
 Larger geographies or multi-standard engagements may extend timelines further; schedules are confirmed collaboratively during kickoff.
 
