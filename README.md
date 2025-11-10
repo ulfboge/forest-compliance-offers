@@ -24,6 +24,28 @@ Supporting references:
 - `outputs/` – Store final PDFs or decks shared with partners.
 - `CHANGELOG.md` – Timeline of notable changes to the repository.
 
+## Notion Sync Bridge
+
+- Copy `tools/notion-sync/env.example` to the repository root as `.env` and paste your Notion integration token (`NOTION_API_TOKEN`).
+- Copy `tools/notion-sync/config.example.json` to `tools/notion-sync/config.json`, then map each Markdown file to its target Notion `page_id`.
+- Install dependencies once:
+
+  ```bash
+  cd tools/notion-sync
+  npm install
+  cd ../..
+  ```
+
+- Run the sync whenever you update docs:
+
+  ```bash
+  cd tools/notion-sync
+  npm run sync
+  cd ../..
+  ```
+
+The script replaces page content with the Markdown output and updates the `Last Sync` Date property in Notion. See `tools/notion-sync/README.md` for full details.
+
 ## Project Status
 
 - Core service documentation refactored into four modular offers with consistent structure and integration notes.

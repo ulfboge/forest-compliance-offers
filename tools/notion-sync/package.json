@@ -1,0 +1,15 @@
+{
+  "name": "notion-sync",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Lightweight Notion sync helper for forest-compliance-offers docs",
+  "scripts": {
+    "sync": "node sync_to_notion.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.8",
+    "dotenv": "^16.4.5"
+  }
+}
+

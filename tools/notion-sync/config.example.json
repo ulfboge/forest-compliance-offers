@@ -1,0 +1,17 @@
+{
+  "sync_map": [
+    {
+      "file": "README.md",
+      "page_id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "file": "docs/05_supporting_materials/05-08_exec-summary-alex.md",
+      "page_id": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    },
+    {
+      "file": "docs/05_supporting_materials/05-09_got-project-summary.md",
+      "page_id": "cccccccccccccccccccccccccccccccc"
+    }
+  ]
+}
+
