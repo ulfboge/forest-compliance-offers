@@ -30,6 +30,17 @@ Provide continuous visibility into forest condition, regeneration, and disturban
 
 ---
 
+## Indicative Timeline
+
+- **Design & Alignment:** 2–3 weeks to co-create KPIs, governance roles, and technology stack decisions.
+- **Pilot Build:** 5–7 weeks to configure pipelines, ingest baseline data, and validate drone/telemetry integration.
+- **Rollout & Training:** 3–4 weeks for full geography deployment, SOP finalisation, and handover sessions.
+- **Ongoing Support (optional):** Quarterly or semi-annual refresh cycles scoped separately.
+
+Schedules adjust based on geography, data availability, and partner coordination requirements.
+
+---
+
 ## Ideal Clients & Use Cases
 
 - Cooperatives and concession managers seeking proactive deforestation alerts.

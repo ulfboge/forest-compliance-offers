@@ -1,12 +1,12 @@
 # Certification Pre-Audit Screening Module
 
-**Partners:** Komba GIS AB with accredited FSC/PEFC auditors, carbon project verifiers, and drone/field teams.
+**Partners:** Komba GIS AB with accredited FSC/PEFC auditors, carbon project partners (initial readiness only), and drone/field teams.
 
 ---
 
 ## Objective
 
-Diagnose certification readiness (FSC, PEFC, carbon methodologies such as VCS) before formal audits by combining spatial evidence, document review, and partner-led site assessments. The goal is to detect issues early and resource a corrective action plan that accelerates accreditation.
+Diagnose certification readiness (FSC, PEFC, and—at an initial screening level—carbon methodologies such as VCS) before formal audits by combining spatial evidence, document review, and partner-led site assessments. The goal is to detect issues early and resource a corrective action plan that accelerates accreditation.
 
 ---
 
@@ -22,7 +22,7 @@ Diagnose certification readiness (FSC, PEFC, carbon methodologies such as VCS) b
 
 ## Deliverables
 
-- Gap assessment matrix mapped to FSC, PEFC, or carbon standard clauses.
+- Gap assessment matrix mapped to FSC, PEFC, or (when in scope) carbon standard clauses.
 - Corrective action roadmap with resource estimates, sequencing, and verification requirements.
 - Spatial evidence annex (maps, boundary checks, deforestation history) linked to each finding.
 - Optional site verification report compiled with drone imagery and field notes.
@@ -30,10 +30,20 @@ Diagnose certification readiness (FSC, PEFC, carbon methodologies such as VCS) b
 
 ---
 
+## Indicative Timeline
+
+- **Discovery & Intake:** 1–2 weeks, depending on documentation readiness and number of management units.
+- **Review & Gap Analysis:** 3–5 weeks, scaled to portfolio size and availability of partners for interviews/workshops.
+- **Action Planning & Reporting:** 2–3 weeks, allowing for client iteration and coordination with certification bodies.
+
+Larger geographies or multi-standard engagements may extend timelines further; schedules are confirmed collaboratively during kickoff.
+
+---
+
 ## Ideal Clients & Use Cases
 
 - Forest owner associations or cooperatives preparing for certification renewal.
-- Carbon project developers seeking third-party QA before validation/verification.
+- Carbon project developers seeking a preliminary readiness screen before involving accredited verifiers.
 - Timber exporters aligning FSC/PEFC diligence with EUDR submissions.
 - Impact investors benchmarking portfolio projects prior to capital deployment.
 
@@ -48,5 +58,5 @@ Diagnose certification readiness (FSC, PEFC, carbon methodologies such as VCS) b
 
 ---
 
-**Disclaimer:** Advisory screening only; formal certification decisions remain with accredited bodies.
+**Disclaimer:** Advisory screening only; formal certification decisions remain with accredited bodies. Carbon-related support covers initial readiness checks; accredited partners should lead detailed carbon verification.
 
