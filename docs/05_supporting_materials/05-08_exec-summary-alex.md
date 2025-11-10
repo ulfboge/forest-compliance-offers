@@ -16,6 +16,7 @@ Komba GIS AB helps restoration and forest supply-chain teams turn scattered spat
 - **Flexible Modules:** Combine EUDR traceability, certification pre-audit readiness, monitoring analytics, and financial roadmapping as needed. Each engagement is scoped around the client’s existing data, partners, and priorities.
 - **Custom Tooling (not black boxes):** Excel-first models, open geospatial workflows, and lightweight dashboards tailored to each cooperative or project—easy to maintain after handover.
 - **Training & Tech Transfer:** Every engagement includes structured workshops, SOPs, and coaching so client teams (or partner PMs) can run, audit, and extend the workflows themselves.
+- **Supply-Chain Performance Lens:** By supporting and improving supplier traceability and monitoring, we strengthen the quality and long-term viability of client supply chains.
 - **Integration, Not Overlap:** We complement OpenForests’ ecosystem—ingesting outputs from Globhe, Nadar, Varda, Biometrio, etc., to create audit-ready and investor-ready deliverables without duplicating their services.
 
 ---

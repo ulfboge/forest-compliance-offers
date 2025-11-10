@@ -4,6 +4,8 @@
 
 Deliver a modular, client-tailored pathway that helps forest managers and supply-chain actors prove **deforestation-free origin (EUDR)**, stay **audit-ready (FSC/PEFC)**, operate a **practical monitoring system**, and translate insights into **bankable financial plans**—with embedded training so teams retain control.
 
+By improving traceability and performance of supplier networks, the platform also strengthens the long-term quality and viability of client supply chains.
+
 ---
 
 ## 2. Modular Offer
