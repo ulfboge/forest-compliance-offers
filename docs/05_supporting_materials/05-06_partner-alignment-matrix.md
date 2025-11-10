@@ -2,7 +2,7 @@
 
 | Partner | Core Offering | How Clients Can Combine Them With Us | What They Don’t Cover (Our Added Value) |
 | :--- | :--- | :--- | :--- |
-| **Globhe** | Global drone data capture for digital twins & AI analytics. | If a client already hires Globhe, we ingest their imagery into Enhanced Monitoring for compliance evidence and KPI tracking—OpenForests simply makes the intro. | They deliver imagery/data only—no compliance packaging, SOP governance, or investor-facing deliverables. |
+| **Globhe** | Global drone data capture for digital twins & AI analytics. | If a client already hires Globhe, we ingest their imagery into Enhanced Monitoring for compliance evidence and KPI tracking—OpenForests simply makes the intro. | They deliver imagery/data only—no compliance packaging, SOP governance, or investor-facing deliverables. Komba GIS AB does not operate drones. |
 | **Nadar** | Satellite & AI ecosystem insights (deforestation, carbon, biodiversity). | Clients using Nadar alerts can feed them into our EUDR Traceability Core and dashboards for risk scoring and action planning. | They don’t manage due diligence submissions, cross-standard gap analysis, or financial storytelling. |
 | **Biometrio** | Advanced biodiversity analytics. | Their biodiversity indicators slot into our Certification Pre-Audit outputs when clients request ecological evidence. | No traceability, land-use compliance, or financing integration. |
 | **Varda** | Field ID technology for supply-chain traceability. | We map Varda field IDs into our QGIS/Mergin workflows to streamline onboarding for clients already on the platform. | They issue IDs but don’t provide spatial analysis or development of compliance toolkits. |

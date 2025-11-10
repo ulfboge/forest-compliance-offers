@@ -12,7 +12,7 @@
 | :--- | :--- | :--- | :--- |
 | **EUDR Traceability Core** | Collect & verify supply geolocation, screen for post-2020 forest loss, produce due-diligence evidence. | Komba GIS AB | 6-10 weeks |
 | **Certification Pre-Audit** | FSC/PEFC/carbon readiness screen, gap analysis, corrective roadmap (initial readiness only for carbon). | Komba GIS AB (accredited auditors engaged only on request) | 8-12 weeks |
-| **Enhanced Monitoring** | Ongoing satellite/drone/telemetry alerting tied to corrective actions. | Komba GIS AB (compatible with Globhe or other providers if client already uses them) | 10-14 weeks setup |
+| **Enhanced Monitoring** | Ongoing satellite/telemetry alerting with optional integration of client-procured drone imagery. | Komba GIS AB (ingests data from partners such as Globhe when supplied) | 10-14 weeks setup |
 | **Operational & Financial Readiness** | Excel-first valuation, capex/opex roadmap, investor deck with compliance linkage. | Komba GIS AB | 8-12 weeks |
 
 > *Durations vary with geography and portfolio size. Modules can run sequentially or in parallel.
@@ -33,7 +33,7 @@
 
 4. **Value Proposition (Slide 4)**  
    - For clients: de-risk EUDR submissions, shorten certification cycles, unlock financing.  
-   - For OpenForests & Alex: easy referral option when clients ask for deeper compliance support; no delivery burden, but a pathway to extend value and demonstrate ecosystem breadth.
+   - For OpenForests & Alex: easy referral option when clients ask for deeper compliance support; no delivery burden, but a pathway to extend value and demonstrate ecosystem breadth (including ingestion of services like Globhe when already contracted).
 
 5. **Call to Action (Slide 5)**  
    - Feature Komba GIS AB in relevant explorer.land partner spotlights or resource lists.  
@@ -46,6 +46,7 @@
 - Stress that the platform is modular—initial engagement can be lightweight (traceability + teaser monitoring) with room to scale.
 - Share approximate timeline bands and clarify that detail-level proposals can follow once the teaser lands.
 - Mention compatibility with the OpenForests partner ecosystem (see `05-06_partner-alignment-matrix.md`) so he knows clients using Globhe, Nadar, etc., can still leverage our services.
+- Clarify that Komba GIS AB does not operate drones; we simply ingest imagery when clients already work with providers like Globhe.
 
 ## Next Steps
 
