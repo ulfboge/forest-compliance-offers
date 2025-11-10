@@ -13,11 +13,12 @@ This repository captures the modular service architecture discussed with Giusepp
 
 Supporting references:
 
-- `docs/Dummy_Report.md` – Sample multi-supplier risk narrative.
-- `docs/EUDR_Status_Sweden.md` – Country briefing template.
-- `docs/Visuals/` – Drop bespoke maps/figures per engagement.
+- `docs/05_supporting_materials/05-01_dummy-report.md` – Sample multi-supplier risk narrative.
+- `docs/05_supporting_materials/05-02_eudr-status-sweden.md` – Country briefing template.
+- `docs/05_supporting_materials/05-03_qgis-eudr-workflow.md` – Field data collection workflow using QGIS + Mergin Maps for EUDR evidence.
+- `docs/05_supporting_materials/05-04_qgis-eudr-transcript.txt` – Transcript reference for the workflow video.
+- `docs/06_visuals/` – Drop bespoke maps/figures per engagement.
 - `outputs/` – Store final PDFs or decks shared with partners.
-- `docs/qgis_eudr_workflow.md` – Field data collection workflow using QGIS + Mergin Maps for EUDR evidence.
 - `CHANGELOG.md` – Timeline of notable changes to the repository.
 
 ## Project Status
@@ -43,15 +44,16 @@ Supporting references:
 ## Repository Layout
 
 - `docs/` – Core narratives (see `docs/README.md` for module guidance).
-- `docs/Visuals/` – Engagement-specific figures at print-ready resolution.
+- `docs/05_supporting_materials/` – Supporting notes, workflows, and transcripts.
+- `docs/06_visuals/` – Engagement-specific figures at print-ready resolution.
 - `outputs/` – Canonical PDFs, decks, or briefing packs.
-- `LICENSE`, `.gitignore` – Supporting configuration files.
+- `CHANGELOG.md`, `LICENSE`, `.gitignore` – Supporting configuration files.
 
 ## Next Steps
 
 1. Review each module and infuse client-specific context (region, commodity, partner roles).
 2. Coordinate branding updates with OpenForests, Mergin Maps, and financial partners before publishing collateral.
-3. Populate `docs/Visuals/` and `outputs/` with tailored material as projects progress; remove outdated versions promptly.
+3. Populate `docs/06_visuals/` and `outputs/` with tailored material as projects progress; remove outdated versions promptly.
 4. Invite collaborators via **GitHub → Settings → Collaborators and teams** and document any Google Docs references in commit messages.
 5. Explore the “Investment Readiness & Verification” concept by drafting a shared checklist that links spatial, certification, and financial evidence.
 

@@ -13,7 +13,11 @@ Each folder is prefixed with an index to retain ordering in file explorers and n
 
 Supplementary guides:
 
-- `qgis_eudr_workflow.md` – Step-by-step field data capture workflow (QGIS + Mergin Maps).
+- `05_supporting_materials/05-03_qgis-eudr-workflow.md` – Step-by-step field data capture workflow (QGIS + Mergin Maps).
+- `05_supporting_materials/05-01_dummy-report.md` – Sample multi-supplier risk narrative.
+- `05_supporting_materials/05-02_eudr-status-sweden.md` – Country briefing template.
+- `05_supporting_materials/05-04_qgis-eudr-transcript.txt` – Transcript reference for the workflow video.
+- `06_visuals/` – Repository of placeholder figures for quick previews.
 - Root-level `CHANGELOG.md` – High-level history of documentation and structure updates.
 
 Each Markdown document follows a shared structure:
