@@ -6,10 +6,10 @@ This repository captures the modular service architecture discussed with Giusepp
 
 | Module | Description | Primary File |
 | :--- | :--- | :--- |
-| **EUDR Traceability Core** | Spatial traceability, deforestation screening, and risk evidence for Regulation (EU) 2023/1115. | `docs/eudr-traceability-core.md` |
-| **Certification Pre-Audit** | FSC/PEFC/carbon readiness diagnostics with corrective-action planning. | `docs/certification-preaudit-offer.md` |
-| **Enhanced Forest Monitoring** | Ongoing satellite, drone, and telemetry alerting between audits. | `docs/enhanced-forest-monitoring.md` |
-| **Operational & Financial Readiness** | Valuation, capex/opex planning, and financing narratives informed by spatial compliance. | `docs/operational-financial-readiness.md` |
+| **EUDR Traceability Core** | Spatial traceability, deforestation screening, and risk evidence for Regulation (EU) 2023/1115. | `docs/01_eudr_traceability/01_eudr-traceability-core.md` |
+| **Certification Pre-Audit** | FSC/PEFC/carbon readiness diagnostics with corrective-action planning. | `docs/02_certification_preaudit/02_certification-preaudit-offer.md` |
+| **Enhanced Forest Monitoring** | Ongoing satellite, drone, and telemetry alerting between audits. | `docs/03_enhanced_monitoring/03_enhanced-forest-monitoring.md` |
+| **Operational & Financial Readiness** | Valuation, capex/opex planning, and financing narratives informed by spatial compliance. | `docs/04_operational_financial/04_operational-financial-readiness.md` |
 
 Supporting references:
 

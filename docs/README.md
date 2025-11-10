@@ -4,10 +4,12 @@ This folder holds the core narratives for the modular assurance platform:
 
 | File | Module | Purpose |
 | :--- | :--- | :--- |
-| `eudr-traceability-core.md` | **EUDR Traceability Core** | Establish defensible spatial traceability and risk screening for Regulation (EU) 2023/1115. |
-| `certification-preaudit-offer.md` | **Certification Pre-Audit** | Prepare FSC/PEFC/carbon projects with targeted gap analyses and corrective-action roadmaps. |
-| `enhanced-forest-monitoring.md` | **Enhanced Monitoring** | Maintain continuous situational awareness through satellite, drone, and telemetry fusion. |
-| `operational-financial-readiness.md` | **Operational & Financial Readiness** | Convert compliance and monitoring insights into bankable financial plans. |
+| `01_eudr_traceability/01_eudr-traceability-core.md` | **EUDR Traceability Core** | Establish defensible spatial traceability and risk screening for Regulation (EU) 2023/1115. |
+| `02_certification_preaudit/02_certification-preaudit-offer.md` | **Certification Pre-Audit** | Prepare FSC/PEFC/carbon projects with targeted gap analyses and corrective-action roadmaps. |
+| `03_enhanced_monitoring/03_enhanced-forest-monitoring.md` | **Enhanced Monitoring** | Maintain continuous situational awareness through satellite, drone, and telemetry fusion. |
+| `04_operational_financial/04_operational-financial-readiness.md` | **Operational & Financial Readiness** | Convert compliance and monitoring insights into bankable financial plans. |
+
+Each folder is prefixed with an index to retain ordering in file explorers and notebooks.
 
 Supplementary guides:
 
