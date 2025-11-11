@@ -6,6 +6,11 @@ All notable changes to this project will be documented in this file. The format 
 
 - Outline upcoming adjustments or planned features here.
 
+## [2025-11-11]
+
+- Added `docs/08_clients/readiness_matrix.md` with segment scoring to guide business development sequencing.
+- Updated `docs/README.md` and root `README.md` to reference the client readiness matrix.
+
 ## [2025-11-07]
 
 - Reframed the documentation into an integrated “Forest Compliance Assurance Platform” with four modular service offers.
