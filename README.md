@@ -21,7 +21,7 @@ Supporting references:
 - `docs/05_supporting_materials/05-08_exec-summary-alex.md` – One-page executive summary tailored for OpenForests/partner referrals.
 - `docs/05_supporting_materials/05-09_got-project-summary.md` – GOT-ready project summary highlighting modularity, customization, and embedded training.
 - `docs/05_supporting_materials/05-10_financial-dashboard-notes.md` – How to regenerate or extend the sample financial dashboard.
-- `docs/06_visuals/` – Drop bespoke maps/figures per engagement.
+- `docs/06_visuals/` – Drop bespoke maps/figures per engagement; includes flow definitions such as `flows/operations_financial_flowchart.md` for quick Mermaid rendering.
 - `docs/08_clients/readiness_matrix.md` – Segment scoring matrix to focus outreach on the highest-readiness client groups.
 - `outputs/` – Store final PDFs or decks shared with partners.
 - `CHANGELOG.md` – Timeline of notable changes to the repository.

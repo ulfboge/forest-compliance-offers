@@ -9,7 +9,8 @@ All notable changes to this project will be documented in this file. The format 
 ## [2025-11-11]
 
 - Added `docs/08_clients/readiness_matrix.md` with segment scoring to guide business development sequencing.
-- Updated `docs/README.md` and root `README.md` to reference the client readiness matrix.
+- Added `docs/06_visuals/flows/operations_financial_flowchart.md` capturing the dual-pillar service flowchart in Mermaid.
+- Updated `docs/README.md` and root `README.md` to reference the client readiness matrix and visual assets.
 
 ## [2025-11-07]
 

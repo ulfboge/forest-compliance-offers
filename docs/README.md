@@ -8,6 +8,7 @@ This folder holds the core narratives for the modular assurance platform:
 | `02_certification_preaudit/02_certification-preaudit-offer.md` | **Certification Pre-Audit** | Prepare FSC/PEFC/carbon projects with targeted gap analyses and corrective-action roadmaps. |
 | `03_enhanced_monitoring/03_enhanced-forest-monitoring.md` | **Enhanced Monitoring** | Maintain continuous situational awareness through satellite, drone, and telemetry fusion. |
 | `04_operational_financial/04_operational-financial-readiness.md` | **Operational & Financial Readiness** | Convert compliance and monitoring insights into bankable financial plans. |
+| `06_visuals/flows/operations_financial_flowchart.md` | **Dual-Pillar Flowchart** | Mermaid definition illustrating how operations and financial services combine into integrated deliverables. |
 | `08_clients/readiness_matrix.md` | **Client Targeting Readiness Matrix** | Prioritise outreach by scoring segments on market size, regulatory urgency, and relationship access. |
 
 Each folder is prefixed with an index to retain ordering in file explorers and notebooks.
@@ -22,7 +23,7 @@ Supplementary guides:
 - `05_supporting_materials/05-08_exec-summary-alex.md` – Referral-ready executive summary for OpenForests/partner outreach.
 - `05_supporting_materials/05-09_got-project-summary.md` – Comprehensive project description (e.g., for GOT applications) featuring customization and training emphasis.
 - `05_supporting_materials/05-10_financial-dashboard-notes.md` – Instructions for regenerating or extending the sample financial dashboard.
-- `06_visuals/` – Repository of placeholder figures for quick previews.
+- `06_visuals/` – Repository of placeholder figures for quick previews, including Mermaid definitions under `flows/`.
 - `08_clients/readiness_matrix.md` – Segment prioritisation table to steer business development sequencing.
 - Root-level `CHANGELOG.md` – High-level history of documentation and structure updates.
 
