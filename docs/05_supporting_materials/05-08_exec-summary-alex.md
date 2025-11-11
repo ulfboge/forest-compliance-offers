@@ -7,47 +7,60 @@
 
 ## Elevator Pitch
 
-Komba GIS AB helps restoration and forest supply-chain teams turn scattered spatial, field, and financial data into actionable EUDR readiness packages. We deliver modular, client-tailored solutions—backed by hands-on training—so partners stay in control while meeting compliance, certification, and investor expectations.
+Komba GIS AB’s Forest Compliance Assurance Platform combines **Operations Audit Services** and **Financial Assessment Services** so restoration teams can prove deforestation-free origin, stay certification-ready, and communicate investment-grade outcomes. Everything is delivered with built-in training and technology transfer, keeping partners in control while strengthening supply-chain traceability and performance.
 
 ---
 
-## What Makes Us Different
+## Operations Audit Services
 
-- **Flexible Modules:** Combine EUDR traceability, certification pre-audit readiness, monitoring analytics, and financial roadmapping as needed. Each engagement is scoped around the client’s existing data, partners, and priorities.
-- **Custom Tooling (not black boxes):** Excel-first models, open geospatial workflows, and lightweight dashboards tailored to each cooperative or project—easy to maintain after handover.
-- **Training & Tech Transfer:** Every engagement includes structured workshops, SOPs, and coaching so client teams (or partner PMs) can run, audit, and extend the workflows themselves.
-- **Supply-Chain Performance Lens:** By supporting and improving supplier traceability and monitoring, we strengthen the quality and long-term viability of client supply chains.
-- **Integration, Not Overlap:** We complement OpenForests’ ecosystem—ingesting outputs from Globhe, Nadar, Varda, Biometrio, etc., to create audit-ready and investor-ready deliverables without duplicating their services.
+- **Traceability Verification:** Geo-referencing, field verification, and document audits across EUDR, FSC, and related standards.  
+- **Compliance Risk Assessment:** Multi-standard risk screening that pinpoints operational vulnerabilities for clients and their suppliers.  
+- **Performance Monitoring:** Continuous oversight using satellite alerts, partner drone imagery, and field telemetry to ensure compliance doesn’t slip between audits.  
+- **Capacity Building:** Workshops, SOPs, and coaching so client teams can sustain the operational framework independently.
 
----
-
-## Modular Service Pathway
-
-| Phase | Client Questions | Our Contribution | Typical Output |
-| :--- | :--- | :--- | :--- |
-| **1. Traceability Baseline** | “Are our suppliers EUDR compliant?” | Clean geodata, risk screening, due-diligence evidence packs | GeoPackage/Excel summary, risk ledger, submission annex |
-| **2. Readiness & Training** | “How do we pass audits and own the process?” | Gap analysis, corrective roadmaps, hands-on workshops | Training playbook, SOP bundle, certification brief |
-| **3. Monitoring Integration** | “Can we track changes continuously?” | Alert configuration (satellite/telemetry), ingestion of partner drone imagery | Monitoring workbook, KPI dashboards, escalation matrix |
-| **4. Financial Translation** | “What does this mean for budgets and investors?” | Scenario modelling, cash-flow outputs, investor memos | Excel valuation models, financing briefs, impact snapshots |
-
-Each phase can stand alone or stack; we scope timelines and budgets according to project size. We never require clients to adopt proprietary software or long-term managed services unless they explicitly request it.
+*Outcome:* Clients gain a clear, repeatable operational picture that keeps supply chains compliant and improves their long-term viability.
 
 ---
 
-## Engagement Snapshot
+## Financial Assessment Services
 
-- **Discovery Call (1 hour):** Map current tools, data gaps, and target outcomes.  
-- **Scoping Note (1–2 pages):** Define modules selected, timeline bands, partner touchpoints, and training plan.  
-- **Delivery Sprints:** Iterative build with review checkpoints and recorded trainings (in-person or remote).  
-- **Handover & Support:** Shared repository access, documented workflows, optional light-touch support retainer.
+- **Cost-Benefit & ROI Analysis:** Quantify compliance investments versus market access, risk mitigation, and opportunity costs.  
+- **Supply-Chain Value Assessment:** Supplier scorecards, stability rankings, and benchmarking to understand business-critical dependencies.  
+- **Investment-Grade Reporting:** Translate compliance data into investor briefs, ESG metrics, and financing decks.  
+- **Financial Risk Mitigation:** Scenario planning and contingency modelling for EUDR/FSC challenges, ready for auditors and financiers.
+
+*Outcome:* Compliance work feeds directly into investment-grade narratives and financial decision-making.
+
+---
+
+## Integrated Approach
+
+Our operations and finance pillars run side-by-side:
+
+| Operations Focus | Finance Focus | Combined Benefit |
+| :--- | :--- | :--- |
+| Traceability assessments | Cost-benefit models | Evidence-backed ROI for compliance investments |
+| Field/telemetry verification | Supplier performance analysis | Stronger, more resilient supply chains |
+| SOPs & training | Investor communications | Clients stay in control while engaging partners confidently |
+
+We design engagements so outputs from one pillar reinforce the other—maps, ledgers, and monitoring feeds directly inform valuation workbooks and investor-ready documentation.
+
+---
+
+## Engagement Process
+
+1. **Discovery:** 1-hour intake to map operational and financial needs along the supply chain.  
+2. **Scoping:** Tailor the mix of operations and finance modules, timelines, and training plans.  
+3. **Delivery:** Iterative build with combined audits, analytics, and financial modelling.  
+4. **Support:** Knowledge transfer, SOP handover, and optional light-touch support to keep systems running.
 
 ---
 
 ## How OpenForests Can Help
 
-1. **Referral Trigger:** When project managers hear “EUDR readiness,” “integrated monitoring,” or “we need investment-grade reporting,” introduce Komba GIS AB.  
-2. **Shared Storytelling:** Feature our modular offer in partner roundups or explorer.land showcases to demonstrate ecosystem breadth.  
-3. **Feedback Loop:** Let us know which formats (maps, dashboards, Excel) resonate most with your clients so we keep refining the handover experience.
+1. **Referral Trigger:** When project managers hear “EUDR readiness,” “integrated monitoring,” or “we need investor-grade reporting,” introduce Komba GIS AB.  
+2. **Shared Storytelling:** Showcase the dual-pillar platform in partner communications to highlight complementary value.  
+3. **Feedback Loop:** Let us know which deliverables (maps, dashboards, Excel) resonate most so we continue refining the handover experience.
 
 ---
 

@@ -11,7 +11,7 @@
 ## Key Messages for the Teaser
 
 - OpenForests already has strong point-solution partners; we show clients how our platform complements those services without adding work for the OpenForests team.
-- Our differentiator: orchestrating traceability, certification readiness, monitoring, and finance narratives—turning partner data into audit-ready, investor-ready outputs.
+- Our differentiator: paired **Operations Audit** + **Financial Assessment** pillars that turn partner data into audit-ready and investor-ready outputs.
 - When pitching to Alex, emphasise that referrals are low-effort: if a client already uses Globhe, Nadar, etc., we take it from there and keep them in the loop as needed.
 
 _Place alongside `05-05_pitch-outline.md` for quick reference during partner conversations._

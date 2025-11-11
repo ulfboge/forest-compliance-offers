@@ -2,20 +2,16 @@
 
 ## 1. Headline
 
-Deliver a modular, client-tailored pathway that helps forest managers and supply-chain actors prove **deforestation-free origin (EUDR)**, stay **audit-ready (FSC/PEFC)**, operate a **practical monitoring system**, and translate insights into **bankable financial plans**—with embedded training so teams retain control.
-
-By improving traceability and performance of supplier networks, the platform also strengthens the long-term quality and viability of client supply chains.
+Deliver a modular, client-tailored pathway that unites **Operations Audit Services** and **Financial Assessment Services** so forest managers and supply-chain actors can prove deforestation-free origin (EUDR), stay audit-ready (FSC/PEFC), run a practical monitoring system, and translate insights into bankable financial plans—with embedded training keeping teams in control. The dual focus strengthens supplier traceability, improves performance, and boosts long-term supply-chain viability.
 
 ---
 
 ## 2. Modular Offer
 
-| Module | Purpose | Key Outputs | Training & Flexibility Notes |
+| Pillar & Modules | Purpose | Key Outputs | Training & Flexibility Notes |
 | :--- | :--- | :--- | :--- |
-| **EUDR Traceability Core** | Harmonise supplier geodata, run post-2020 deforestation screening (Sentinel/RADD/GLAD), produce supplier risk ledger. | GeoPackage/PostGIS database, risk ledger, due-diligence brief. | Workflows configurable to existing data; handover includes SOPs and QGIS/Mergin tutorials. |
-| **Certification Pre-Audit** | Scope FSC/PEFC (and initial carbon) requirements, assess gaps, design corrective roadmap. | Gap matrix, action plan, pre-audit report. | Co-create remediation plans; train client leads on evidence collection and reporting cadence. |
-| **Enhanced Forest Monitoring** | Build alerting/analytics pipeline using satellite, telemetry, and optional partner-supplied drone imagery. | Monitoring playbook, KPI dashboard/workbook, escalation matrix. | Clients select telemetry/drone partners; we configure ingestion and provide SOPs + refresher sessions. |
-| **Operational & Financial Readiness** | Convert monitoring/compliance data into Excel-first scenarios (wood-flow + DCF). | Transparent valuation workbook, capex/opex roadmap, financing brief. | Models delivered in Excel with walkthroughs; clients can extend scenarios without proprietary tools. |
+| **Operations Audit Services**<br>• EUDR Traceability Core<br>• Certification Pre-Audit<br>• Enhanced Monitoring | Harmonise supplier geodata, run deforestation screening, conduct readiness checks, and maintain continuous monitoring across EUDR/FSC standards. | GeoPackage/PostGIS database, supplier risk ledger, certification gap matrix, monitoring playbook, SOP bundle. | Configured around existing datasets and partner services (Globhe, Nadar, etc.); workshops and refreshers ensure client teams can execute independently. |
+| **Financial Assessment Services**<br>• Operational & Financial Readiness | Convert compliance/monitoring outputs into Excel-first wood-flow + DCF scenarios, supplier scorecards, and investor briefs. | Transparent valuation workbooks, capex/opex roadmaps, financial impact statements, risk mitigation scenarios. | Delivered in open tooling (Excel) with walkthroughs so clients can extend scenarios without proprietary software. |
 
 ---
 
@@ -40,12 +36,11 @@ By improving traceability and performance of supplier networks, the platform als
 
 ## 5. Deliverables
 
-- Supplier/Compartment **Risk Ledger** with remediation priorities.
-- **Map atlas** and dashboard-ready layers for EUDR submissions and partner integrations.
-- **Certification gap matrix** and corrective roadmap.
-- **Monitoring playbook** (KPIs, cadences, governance) with recorded training sessions.
-- **Wood-flow schedule** linked to a transparent **DCF workbook** (base vs enhanced scenarios).
-- **Concise briefing deck** for regulators, certifiers, and investors.
+- Supplier/Compartment **Risk Ledger** and map atlas with remediation priorities (Operations pillar).
+- **Certification gap matrix** and corrective roadmap (Operations pillar).
+- **Monitoring playbook** (KPIs, cadences, governance) with recorded training sessions (Operations pillar).
+- **Wood-flow schedule**, valuation workbook, supplier scorecards, and investment briefs (Financial pillar).
+- **Concise briefing deck** for regulators, certifiers, investors, and partners highlighting integrated ROI (Joint output).
 
 ---
 
@@ -60,7 +55,7 @@ By improving traceability and performance of supplier networks, the platform als
 
 ## 7. Positioning for OpenForests & Partners
 
-- Present as a **referral-ready solution**—OpenForests can point clients to Komba GIS AB when they need integrated compliance, monitoring, or finance support.
+- Present as a **referral-ready solution**—OpenForests can point clients to Komba GIS AB when they need integrated operations + financial compliance support.
 - Compatible with existing partner services (Globhe, Nadar, Varda, etc.); we ingest their outputs rather than replicate them.
 - Emphasise the **training and tech transfer promise**: clients remain independent after rollout.
 

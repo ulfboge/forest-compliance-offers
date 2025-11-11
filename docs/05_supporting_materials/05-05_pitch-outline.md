@@ -2,58 +2,39 @@
 
 ## Why
 
-- **Pressure points:** EUDR compliance, certification readiness, investor due diligence.
-- **Gap:** Clients struggle to connect spatial traceability, on-the-ground monitoring, and finance narratives into one engagement.
-- **Opportunity:** Position Komba GIS AB’s modular assurance platform so OpenForests project managers can refer interested clients without needing to co-deliver services.
+- **Pressure points:** Clients must prove deforestation-free supply, stay audit-ready across standards, and justify investments to lenders.
+- **Gap:** Operational audits and financial narratives are often treated separately, leaving supply chains exposed.
+- **Opportunity:** Introduce Komba GIS AB’s dual-pillar platform so OpenForests can refer clients needing integrated operational + financial compliance support—without taking on delivery work.
 
-## Modular Offer (Stackable Blocks)
+## The Two Pillars
 
-| Module | Purpose | Delivered By | Typical Duration* |
-| :--- | :--- | :--- | :--- |
-| **EUDR Traceability Core** | Collect & verify supply geolocation, screen for post-2020 forest loss, produce due-diligence evidence. | Komba GIS AB | 6-10 weeks |
-| **Certification Pre-Audit** | FSC/PEFC/carbon readiness screen, gap analysis, corrective roadmap (initial readiness only for carbon). | Komba GIS AB (accredited auditors engaged only on request) | 8-12 weeks |
-| **Enhanced Monitoring** | Ongoing satellite/telemetry alerting with optional integration of client-procured drone imagery. | Komba GIS AB (ingests data from partners such as Globhe when supplied) | 10-14 weeks setup |
-| **Operational & Financial Readiness** | Excel-first valuation, capex/opex roadmap, investor deck with compliance linkage. | Komba GIS AB | 8-12 weeks |
+| Pillar | Focus | Example Outputs |
+| :--- | :--- | :--- |
+| **Operations Audit Services** | Traceability verification, compliance risk screening, continuous monitoring, capacity building | Risk ledgers, monitoring playbooks, SOP packs |
+| **Financial Assessment Services** | Cost-benefit modelling, supplier value assessments, investor communications, risk mitigation scenarios | Valuation workbooks, financial scorecards, ESG briefs |
 
-> *Durations vary with geography and portfolio size. Modules can run sequentially or in parallel.
+*Both pillars are client-tailored, Excel/GIS friendly, and handed over with training so teams remain self-sufficient.*
 
-## Teaser Narrative (slide or email)
+## Slide-by-Slide Teaser
 
-1. **Problem Statement (Slide 1)**  
-   - Clients must prove deforestation-free supply, maintain certification standing, and convince lenders—all with fragmented data.  
-   - Current tooling misses cross-module integration.
-
-2. **Solution Snapshot (Slide 2)**  
-   - Introduce the Forest Compliance Assurance Platform: a modular offer from Komba GIS AB covering traceability, certification readiness, monitoring, and finance packaging.  
-   - Highlight modular approach: start with traceability, add certification or finance modules as needed.
-
-3. **How It Works (Slide 3)**  
-   - Simple workflow graphic: *Traceability Baseline → Certification & Monitoring → Financial Readiness → Investment Verification*.  
-   - Mention shared data backbone (PostGIS/GIS workspaces, Excel templates, partner dashboards).
-
-4. **Value Proposition (Slide 4)**  
-   - For clients: de-risk EUDR submissions, shorten certification cycles, unlock financing.  
-   - For OpenForests & Alex: easy referral option when clients ask for deeper compliance support; no delivery burden, but a pathway to extend value and demonstrate ecosystem breadth (including ingestion of services like Globhe when already contracted).
-
-5. **Call to Action (Slide 5)**  
-   - Feature Komba GIS AB in relevant explorer.land partner spotlights or resource lists.  
-   - Encourage OpenForests PMs to flag us when clients ask about EUDR/certification/finance services.  
-   - Offer a light briefing call so the team can make confident referrals.
+1. **Problem Statement** – Fragmented tools make it hard to satisfy EUDR, certification, and investor expectations.
+2. **Solution Snapshot** – The Forest Compliance Assurance Platform: operations + finance under one roof, with modular engagement.
+3. **Integrated Approach** – Show how field verification feeds financial models (and vice versa) to strengthen supply-chain viability.
+4. **Value to OpenForests** – Easy referral path; their partners retain their existing services (Globhe, Nadar, etc.), and we plug the integration gap.
+5. **Engagement Process** – Discovery → Scoping → Delivery → Support, highlighting training and tech transfer at every step.
 
 ## Talking Points for Alex
 
-- Emphasise that we’re asking for visibility and referrals, not delivery commitments.
-- Stress that the platform is modular—initial engagement can be lightweight (traceability + teaser monitoring) with room to scale.
-- Share approximate timeline bands and clarify that detail-level proposals can follow once the teaser lands.
-- Mention compatibility with the OpenForests partner ecosystem (see `05-06_partner-alignment-matrix.md`) so he knows clients using Globhe, Nadar, etc., can still leverage our services.
-- Clarify that Komba GIS AB does not operate drones; we simply ingest imagery when clients already work with providers like Globhe.
+- We’re seeking visibility and referrals; OpenForests doesn’t need to co-deliver.
+- Highlight that the two pillars can start small (traceability check + ROI snapshot) and expand as needed.
+- Reinforce compatibility with existing partner ecosystem—Globhe, Nadar, Varda, etc. remain part of the toolkit.
+- Emphasise supply-chain benefits: better-managed suppliers, clearer ROI, more resilient compliance posture.
 
-## Next Steps
+## Call to Action
 
-1. Convert this outline into a 5-slide deck (PowerPoint, Google Slides, or Canva).  
-2. Include a visuals slide using assets from `docs/06_visuals/`.  
-3. Reference the detailed Markdown modules only if Alex/partners request deeper scope notes.
-4. Add a referral slide highlighting how OpenForests can point interested clients to us.
+1. Feature the platform in explorer.land partner spotlights or resource lists.  
+2. Flag us when project managers discuss EUDR readiness, integrated monitoring, or investor-grade reporting.  
+3. Arrange a short briefing so the team can confidently recommend us to clients.
 
 ---
 
